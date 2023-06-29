@@ -51,20 +51,20 @@ ul.posts li { list-style: none; }
 
   /*animal styling */
 
-  div.gallery {
+ .animals div.gallery {
     border: 1px solid #ccc;
   }
   
-  div.gallery:hover {
+  .animals  div.gallery:hover {
     border: 1px solid #777;
   }
   
-  div.gallery img {
+  .animals div.gallery img {
     width: 100%;
     height: auto;
   }
   
-  div.desc {
+  .animals  div.desc {
     padding: 15px;
     text-align: center;
   }
@@ -73,7 +73,7 @@ ul.posts li { list-style: none; }
     box-sizing: border-box;
   }
   
-  .responsive {
+  .animals .responsive {
     padding: 0 6px;
     float: left;
     width: 24.99999%;
@@ -92,7 +92,7 @@ ul.posts li { list-style: none; }
     }
   }
   
-  .clearfix:after {
+  .animals .clearfix:after {
     content: "";
     display: table;
     clear: both;
