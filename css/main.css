@@ -42,7 +42,6 @@ ul.posts li { list-style: none; }
 .content {
     position: fixed;
     bottom: 0;
-    right: 70%;
     background: rgba(0, 0, 0, 0.5);
     color: #f1f1f1;
     width: 100%;
