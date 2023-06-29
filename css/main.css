@@ -39,6 +39,7 @@ ul.posts li { list-style: none; }
   }
 
 /* Add some content at the bottom of the video/page */
+
 .content {
     position: fixed;
     bottom: 0;
@@ -50,7 +51,7 @@ ul.posts li { list-style: none; }
   }
 
   /*animal styling */
-
+/*
  .animals div.gallery {
     border: 1px solid #ccc;
   }
@@ -98,4 +99,4 @@ ul.posts li { list-style: none; }
     clear: both;
   }
 
-  
+*/
