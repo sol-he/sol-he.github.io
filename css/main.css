@@ -18,8 +18,8 @@ footer { border-top: 1px solid #d5d5d5; font-size: 1em; }
 
 
 .lamb {
-  display: flex;
-  align-items: left;
+  display: left;
+  align-items: center;
   justify-content: center
 }
 /*
