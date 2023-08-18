@@ -16,22 +16,22 @@ nav ul li, footer ul li { display: inline; margin-right: 20px; }
 
 footer { border-top: 1px solid #d5d5d5; font-size: 1em; }
 
-
+/*
 .lamb {
   display: flex;
   align-items: center;
   justify-content: center;
   justify-self:left
 }
-/*
+
 img {
   max-width: 100%
-}*/
+}
 
 .image {
   flex-basis: 40%
 }
-
+*/
 .info {
   
   padding-left: 20px;
