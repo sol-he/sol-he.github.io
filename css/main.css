@@ -16,26 +16,26 @@ nav ul li, footer ul li { display: inline; margin-right: 20px; }
 
 footer { border-top: 1px solid #d5d5d5; font-size: 1em; }
 
-/*
-.container {
+
+.lamb {
   display: flex;
   align-items: center;
   justify-content: center
 }
-
+/*
 img {
   max-width: 100%
-}
+}*/
 
 .image {
   flex-basis: 40%
 }
 
-.text {
-  font-size: 20px;
+.info {
+  
   padding-left: 20px;
 }
-*/
+
 /* Blog */
 ul.posts { margin: 20px auto 40px; font-size: 1.5em; }
 ul.posts li { list-style: none; }
